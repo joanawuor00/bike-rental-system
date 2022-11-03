@@ -1,0 +1,13 @@
+{
+    "name": "hp/bikerental",
+    "description": "bikerental system",
+    "type": "project",
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
